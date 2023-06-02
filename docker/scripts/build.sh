@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ./sdk || exit
+cd sdk || exit
 
 echo "# Downloading an osxcross source snapshot"
 curl -LO https://github.com/tpoechtrager/osxcross/archive/master.zip

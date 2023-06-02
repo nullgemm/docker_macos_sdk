@@ -3,6 +3,7 @@
 # when using instant_macos_sdk, $1 == instant_macos_sdk/sdk/root
 if [ -z $1 ]; then
 	echo "please supply a path to the macOS SDK"
+	echo "when using instant_macos_sdk, use its sdk/root folder"
 	exit
 fi
 

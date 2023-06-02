@@ -44,7 +44,7 @@ apk add --no-cache \
 	fts-dev \
 	zlib-dev \
 	libbsd-dev \
-	llvm11-dev \
+	llvm16-dev \
 	libxml2-dev \
 	openssl-dev \
 	python3 \
